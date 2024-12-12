@@ -119,7 +119,3 @@ I'm Martin Cooper, a passionate developer who loves to make a difference!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinc5&layout=compact&theme=radical)
 
 ---
-
-## 🤝 Let's Collaborate!
-
-I'm always looking to connect with other passionate developers. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/your-profile) or email me at [your-email@example.com].

@@ -1,4 +1,8 @@
-# Martin Coopers Portfolio
+<div align="center">
+  <h1 style="color:#4CAF50; font-family:Arial;">Martin Cooper's Portfolio</h1>
+  <p><em>Passionate Developer | Creative Problem Solver | Technology Enthusiast</em></p>
+</div>
+
 
 ## About Me
 
@@ -107,7 +111,7 @@ I'm Martin Cooper, a passionate developer who loves to make a difference!
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-c5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin.a.cooper.05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinc5)
 
